@@ -1,0 +1,13 @@
+# Large data files
+*.txt.gz
+GSE300385_raw_counts.txt
+GSE300385_log2CPM_normalized.tsv
+
+# R specific
+.Rhistory
+.RData
+.Rproj.user
+
+# System files
+.DS_Store
+Thumbs.db
